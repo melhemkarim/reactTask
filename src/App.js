@@ -39,7 +39,7 @@ return(
   <div className="app-style">
     <form onSubmit={e => handleSubmit(e)}>
       <label><h1>Insert Time</h1></label>
-      <label><p>Example : 12:01:00AM</p></label>
+      <label><p>Example : 12:25 PM/04:25 PM/12:05AM etc.</p></label>
 
     <input
            type="text"
